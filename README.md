@@ -1,2 +1,2 @@
 # videokyc
-its a tool to verify your kkc through video feature and automated system
+its a tool to verify your kyc through video feature and automated system
